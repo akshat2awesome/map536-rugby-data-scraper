@@ -15,7 +15,7 @@ The scraper stores scraped data into a SQLite database in /tmp/
 ### Available data
 
 - Matches
-    - Infos (teams, ground, date)
+    - Information about (teams, ground, date)
     - Basic statistics (tries, conversions, penalties, drops)
     - Extended statistics (kicks, mauls, etc.)
 - Players
